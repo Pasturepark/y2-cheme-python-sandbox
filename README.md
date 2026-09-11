@@ -1,2 +1,2 @@
 # Y2 ChemE Python Sandbox
-이 저장소는 화학공학 전공 지식을 파이썬 코드로 직접 구현하고 시뮬레이션해 보는 개인 프로젝트 공간입니다.
+This storage is private project space for simulating and tabulating knowledge related to ChemE major
